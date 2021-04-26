@@ -7,11 +7,11 @@
 
 <div>
     <a href="https://github.com/tomasfranco">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasfranco&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasfranco&count_private=true&include_all_commits=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact">
+   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=tomasfranco&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasfranco&count_private=true&include_all_commits=true&border_radius=5px&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1014&layout=compact">
 </div> 
 
-<div style="display: flex"><br>
+<div style="display: inline_block"><br>
    <img align="center" alt="Lz-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Lz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Lz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
